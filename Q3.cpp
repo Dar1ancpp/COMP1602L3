@@ -54,6 +54,6 @@ int main() {
 	
 	displayCustomer(customers[randomNum]);
 	
-	
+	inputFile.close;
 	return 0;
 }
